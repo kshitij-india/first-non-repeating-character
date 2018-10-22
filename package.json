@@ -1,7 +1,6 @@
 {
   "name": "first-non-repeating-character",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
@@ -13,5 +12,15 @@
     "chai": "^4.2.0",
     "mocha": "^5.2.0",
     "request": "^2.88.0"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/kshitijjain/first-non-repeating-character"
+  },
+  "homepage": "https://bitbucket.org/kshitijjain/first-non-repeating-character",
+  "description": ""
 }
