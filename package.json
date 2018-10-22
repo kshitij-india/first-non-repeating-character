@@ -19,8 +19,8 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://bitbucket.org/kshitijjain/first-non-repeating-character.git"
+    "url": "https://github.com/kshitij-india/first-non-repeating-character"
   },
-  "homepage": "https://bitbucket.org/kshitijjain/first-non-repeating-character",
-  "description": "A NodeJS server which accepts a string via an http POST request and returns the first non repeating character in it."
+  "homepage": "https://github.com/kshitij-india/first-non-repeating-character",
+  "description": "A NodeJS server which accepts a string via an http POST request and returns the first non repeating character in it"
 }

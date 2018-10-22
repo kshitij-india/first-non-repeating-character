@@ -1,14 +1,14 @@
-#first-non-repeating-character#
+# first-non-repeating-character #
 A NodeJS server which accepts a string via an http POST request and returns the first non repeating character in it.
 
-##Installation##
+## Installation ##
 To install, first clone the repository and install the npm modules.
 ```bash
 git clone https://bitbucket.org/kshitijjain/first-non-repeating-character.git
 npm install
 ```
 
-##Getting Started##
+## Getting Started ##
 Start the server using `npm start` command
 ```bash
 npm start
@@ -22,7 +22,7 @@ In case all the characters are repeating, appropriate message will be shown.
 
 In case where no string is typed, error will be thrown.
 
-##Unit Testing##
+## Unit Testing ##
 Unit test cases are written in mocha and chai. They are located in `test` directory.
 To start the testing environment:
 ```bash
