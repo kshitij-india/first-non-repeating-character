@@ -14,6 +14,7 @@ Start the server using `npm start` command
 npm start
 ```
 The server will start on port 3001.  
+
   
 Navigate to http://localhost:3001/ in the browser to proceed. A form will open. Type the string whose first non repeating character needs to be found and press submit. The corresponding character will be shown in the browser.  
 
