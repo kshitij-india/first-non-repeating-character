@@ -6,8 +6,10 @@ var server= require('../server');
 
 
 describe('test cases for server accepting string and returning first non repeating character', function(){
-    before('start the server', function(){
-        server.listen(3001);
+    before('start the server', function(done){
+        server.listen(3001, function(){
+            done();
+        });
     });
 
     describe('should return first non repeating character if it exists', function(){
